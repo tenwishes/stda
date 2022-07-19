@@ -1,0 +1,51 @@
+.container {
+  margin-top: 100px;
+
+  .header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .text {
+      font-size: 40px;
+      font-weight: 500;
+      color: black;
+    }
+
+    .underText {
+      font-size: 20px;
+      font-weight: 500;
+      color: #9C9C9C;
+    }
+  }
+
+  .areas {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    .area {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin: 50px;
+
+      .icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: #fc4141;
+
+        img {
+          height: 50px;
+          width: 50px;
+        }
+      }
+    }
+  }
+}

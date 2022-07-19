@@ -5,5 +5,14 @@ import icon_ru from './ru.svg'
 import icon_point from './point.svg'
 import worldMap from './map.svg'
 import fullWorldMap from './map_full.svg'
+import icon_air from './air.svg'
+import icon_road from './road.svg'
+import icon_sea from './sea.svg'
+import icon_railway from './railway.svg'
+import icon_dangerous from './dangerous.svg'
+import icon_groupage from './groupage.svg'
+import icon_special from './special.svg'
+import icon_oversized from './oversized.svg'
+import icon_standart from './standart.svg'
 
-export {logo, icon_en, icon_ee, icon_ru, icon_point, fullWorldMap, worldMap}
+export {logo, icon_en, icon_ee, icon_ru, icon_point, fullWorldMap, worldMap, icon_air, icon_sea, icon_railway, icon_road, icon_standart, icon_dangerous, icon_oversized, icon_groupage, icon_special}
