@@ -1,13 +1,15 @@
 import React from 'react';
+import s from './worldwide.module.scss'
+import {icon_point, worldMap, fullWorldMap} from '../../../icons/icons'
 
 export function Worldwide(){
     return (
-        <div>
-            <div>
-                <h2>Сargo shipments <span>organization</span> throughout the world</h2>
+        <div className={s.main}>
+            <div className={s.text}>
+                <p>Сargo <span>shipments</span> organization throughout the world</p>
             </div>
-            <div>
-                <img src={""} alt={""}/>
+            <div className={s.worldmap}>
+                <img src={worldMap} alt={""}/>
             </div>
         </div>
     );
