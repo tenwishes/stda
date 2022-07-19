@@ -8,9 +8,9 @@ export function Homepage(){
     return (
         <>
             <Worldwide />
-            <Service />
-            <Loads />
-            <Contact />
+            {/*<Service />*/}
+            {/*<Loads />*/}
+            {/*<Contact />*/}
         </>
     );
 }

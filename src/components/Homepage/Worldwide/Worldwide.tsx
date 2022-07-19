@@ -1,6 +1,6 @@
 import React from 'react';
 import s from './worldwide.module.scss'
-import {icon_point, worldMap, fullWorldMap} from '../../../icons/icons'
+import {fullWorldMap} from '../../../icons/icons'
 
 export function Worldwide(){
     return (
@@ -9,7 +9,7 @@ export function Worldwide(){
                 <p>Сargo <span>shipments</span> organization throughout the world</p>
             </div>
             <div className={s.worldmap}>
-                <img src={worldMap} alt={""}/>
+                <img src={fullWorldMap} alt={""}/>
             </div>
         </div>
     );

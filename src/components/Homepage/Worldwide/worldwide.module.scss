@@ -1,11 +1,11 @@
 .main {
   display: flex;
   justify-content: center;
-  margin-top: 70px;
+  margin-top: 50px;
 
   .text {
-    padding: 15px;
-    max-width: 450px;
+    padding: 20px;
+    max-width: 430px;
     font-size: 48px;
     font-weight: 500;
 
@@ -15,14 +15,15 @@
   }
 
   .worldmap {
-    padding: 15px;
+    padding: 20px;
+
     img {
       max-width: 590px;
     }
   }
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 1010px) {
   .main {
     flex-direction: column;
 
@@ -36,17 +37,48 @@
   }
 }
 
-//@media only screen and (max-width: 670px) {
-//  .main {
-//    flex-direction: column;
-//
-//    .text {
-//      margin: 0 auto;
-//    }
-//
-//    .worldmap {
-//      max-width: 390px;
-//    }
-//  }
-//}
+@media only screen and (max-width: 600px) {
+  .main {
+    flex-direction: column;
+
+    .text {
+      padding: 0;
+      margin: 0 auto;
+    }
+
+    .worldmap {
+      img {
+        width: 390px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 435px) {
+  .main {
+    flex-direction: column;
+
+    .text {
+      padding: 0;
+      margin: 0 auto;
+    }
+
+    .worldmap {
+      img {
+        width: 290px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .main {
+    flex-direction: column;
+    .text {
+      padding: 0;
+      max-width: 290px;
+    }
+
+  }
+}
 
