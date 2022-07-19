@@ -75,6 +75,12 @@ a, a:hover, a:focus, a:active {
       opacity: 1;
     }
 
+    .logo {
+      img {
+        height: 40px;
+      }
+    }
+
     .nav {
       position: fixed;
       top: 0;
