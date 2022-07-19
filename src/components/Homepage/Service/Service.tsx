@@ -32,9 +32,9 @@ export function Service() {
                 <span className={s.underText}>wide range of areas</span>
             </div>
             <div className={s.areas}>
-                {areas.map((a: any) => {
+                {areas.map((a, index) => {
                     return (
-                        <div className={s.area}>
+                        <div key={index} className={s.area}>
                             <div className={s.icon}>
                                 <img src={a.image} alt={a.alt}/>
                             </div>
