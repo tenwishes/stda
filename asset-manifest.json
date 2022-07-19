@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/stda/static/css/main.aec18444.css",
-    "main.js": "/stda/static/js/main.efc89041.js",
+    "main.css": "/stda/static/css/main.6c3e7d5b.css",
+    "main.js": "/stda/static/js/main.e4a70658.js",
     "static/js/787.e3f3589d.chunk.js": "/stda/static/js/787.e3f3589d.chunk.js",
     "static/media/map_full.svg": "/stda/static/media/map_full.73dd4c23406b8de34cd59150ef8956aa.svg",
     "static/media/map.svg": "/stda/static/media/map.34505284f83fb8eb124d2ced6b853e0d.svg",
     "static/media/logo.svg": "/stda/static/media/logo.347c5c7c5627c3d9da447f8c75e951c8.svg",
+    "static/media/dangerous.svg": "/stda/static/media/dangerous.acdca1838af7529906cf59def3f2640c.svg",
+    "static/media/special.svg": "/stda/static/media/special.da06a73ce727335ac25ad81848454e5a.svg",
+    "static/media/groupage.svg": "/stda/static/media/groupage.22db3077f51921d0b7eb077cc98e10b8.svg",
+    "static/media/railway.svg": "/stda/static/media/railway.db5eca2f549b64cc884252edffef5d2c.svg",
+    "static/media/sea.svg": "/stda/static/media/sea.02194e34699b66fc4cad54894588798b.svg",
+    "static/media/road.svg": "/stda/static/media/road.90073f832445dbb7a1183656b97df0c4.svg",
     "static/media/en.svg": "/stda/static/media/en.dbb9a30ca2843af7da39a45b42a028e6.svg",
+    "static/media/air.svg": "/stda/static/media/air.3dfa31655bdea4a34eecdee5212f7dc2.svg",
     "static/media/point.svg": "/stda/static/media/point.8b819f03094a5eefcb873ad64a92a1e2.svg",
     "static/media/ee.svg": "/stda/static/media/ee.256e8fe901b05f0309efd344dbb03e20.svg",
     "index.html": "/stda/index.html",
     "static/media/ru.svg": "/stda/static/media/ru.d81d3c87af359c0616228a15b0789353.svg",
-    "main.aec18444.css.map": "/stda/static/css/main.aec18444.css.map",
-    "main.efc89041.js.map": "/stda/static/js/main.efc89041.js.map",
+    "static/media/oversized.svg": "/stda/static/media/oversized.ccb3ecfca7cef36c07c2de9a98ae8b34.svg",
+    "static/media/standart.svg": "/stda/static/media/standart.275a992acebdd47e7b23904d20c03436.svg",
+    "main.6c3e7d5b.css.map": "/stda/static/css/main.6c3e7d5b.css.map",
+    "main.e4a70658.js.map": "/stda/static/js/main.e4a70658.js.map",
     "787.e3f3589d.chunk.js.map": "/stda/static/js/787.e3f3589d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aec18444.css",
-    "static/js/main.efc89041.js"
+    "static/css/main.6c3e7d5b.css",
+    "static/js/main.e4a70658.js"
   ]
 }
